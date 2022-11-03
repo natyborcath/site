@@ -8,7 +8,7 @@
   </head>
   
   <body>
-  
+    <img id="banner" src="banner.jpg">
       <h1> 121PETS</h1>
 
       <p>Localizado na cidade de curitiba o <strong>121PETS</strong> traz a melhor experiência para o seu pet. Fundada em abril         de 2022, o 121PETS       já é destaque no centro de curitiba e conquista novos clientes a cada dia.</p>
